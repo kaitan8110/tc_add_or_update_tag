@@ -1,17 +1,6 @@
 from associate_tag_to_a_resource import associate_tag_to_a_resource
 import csv
 
-## Input ## 
-# "qcs::cvm:ap-singapore:uin/200033543516:instance/ins-rgbnm7pq"
-# inputObject = {
-#     "TagKey": "testkey2",
-#     "TagValue": "testvalue2",
-#     "ResourceType": "cvm",
-#     "Region": "ap-singapore",
-#     "Uin": "200033543516",
-#     "Id": "ins-rgbnm7pq"
-# }
-
 
 # Note, newline='' is a documented requirement for the csv module
 # for reading and writing CSV files.
