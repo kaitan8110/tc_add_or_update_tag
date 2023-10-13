@@ -2,12 +2,6 @@ from read_tags_of_a_resource import read_tags_of_a_resource
 import csv
 import json
 
-## Input ## 
-# "qcs::cvm:ap-singapore:uin/200033543516:instance/ins-rgbnm7pq"
-# inputObject = {
-#     "Id": "ins-rgbnm7pq"
-# }
-
 
 # Note, newline='' is a documented requirement for the csv module
 # for reading and writing CSV files.
